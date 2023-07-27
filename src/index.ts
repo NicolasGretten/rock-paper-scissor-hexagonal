@@ -1,3 +1,3 @@
-import App from "./App";
+import CLIController from "src/Application/CLIController";
 
-App.run();
+new CLIController()

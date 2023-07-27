@@ -1,0 +1,1 @@
+[[{"nbOfRounds":1}],[{"choice":"ROCK","name":"Player One","round":1},{"choice":"PAPER","name":"Player Two","round":1}]],[[{"nbOfRounds":1}],[{"choice":"ROCK","name":"Player One","round":1},{"choice":"PAPER","name":"Player Two","round":1}]],
